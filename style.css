@@ -1,0 +1,76 @@
+html,body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255, 238, 2);
+}
+.testo2{
+    background-color: rgb(42, 202, 255);
+    width: 100%;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.video{
+   border-radius: 1em;
+   width: 20em;
+   height: 30em;
+   margin: auto;
+   margin-top: 2em;
+   justify-items: center;
+   align-items: center;  
+}
+.botao{
+     justify-items: center;
+     align-items: center; 
+    position: relative;
+}
+.image1{
+    width: 25em;
+    height: 25em;
+   justify-items: center;
+   align-items: center;
+   margin: auto;
+  margin-bottom: 3em;
+}
+.image2{
+    width: 25em;
+    height: 25em;
+    justify-items: center;
+    align-items: center;
+    margin: auto;
+}
+.image3{
+    justify-items: center;
+    align-items: center;
+    margin: auto;
+    width: 25em;
+    height: 25em;
+    margin: auto;
+    margin-bottom: 2em;
+}
+.copy{
+    background-color: #9d9d9d;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.fim{
+    color: #6f0350;
+}
+.image4{
+    justify-items: center;
+    align-items: center;
+    margin: auto;
+    width: 25em;
+    height: 25em; 
+}
+.testo1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 100%;
+    font-size: 2em;
+    background-color: #6f0350;
+    color:#ffff
+}
