@@ -3,7 +3,7 @@ html,body{
     align-items: center;
     text-align: center;
     background-color: rgb(255, 238, 2);
-    
+
 }
 .lista{
     margin: 0;
@@ -73,13 +73,7 @@ html,body{
 .fim{
     color: #6f0350;
 }
-.image4{
-    justify-items: center;
-    align-items: center;
-    margin: auto;
-    width: 25em;
-    height: 25em; 
-}
+
 .testo1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
