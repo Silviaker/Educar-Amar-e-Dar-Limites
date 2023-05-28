@@ -40,6 +40,23 @@ html,body{
  
 }
 .image4{
+
+    box-sizing: border-box;
+
+    width: 25em;
+
+    height: 25em;
+
+   justify-items: center;
+
+   align-items: center;
+
+   margin: auto;
+
+ 
+
+}
+.image5{
     justify-items: center;
    align-items: center;
     width: 15em;
