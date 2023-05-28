@@ -57,6 +57,7 @@ html,body{
 
 }
 .image5{
+    box-sizing: border-box;
     justify-items: center;
    align-items: center;
     width: 25em;
