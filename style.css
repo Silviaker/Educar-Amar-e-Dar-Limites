@@ -3,6 +3,10 @@ html,body{
     align-items: center;
     text-align: center;
     background-color: rgb(255, 238, 2);
+    
+}
+.lista{
+    margin: 0;
 }
 .testo2{
     background-color: rgb(42, 202, 255);
@@ -27,14 +31,23 @@ html,body{
     position: relative;
 }
 .image1{
+    box-sizing: border-box;
     width: 25em;
     height: 25em;
    justify-items: center;
    align-items: center;
    margin: auto;
-  margin-bottom: 3em;
+ 
+}
+.image4{
+    justify-items: center;
+   align-items: center;
+    width: 15em;
+    height:4em;
+    margin: auto;
 }
 .image2{
+    box-sizing: border-box;
     width: 25em;
     height: 25em;
     justify-items: center;
@@ -42,13 +55,14 @@ html,body{
     margin: auto;
 }
 .image3{
+    box-sizing: border-box;
     justify-items: center;
     align-items: center;
     margin: auto;
     width: 25em;
     height: 25em;
     margin: auto;
-    margin-bottom: 2em;
+   
 }
 .copy{
     background-color: #9d9d9d;
